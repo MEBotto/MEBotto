@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mariano Botto and I'm a Frotend Developer, from Argentina!</h2>
+<h2 align="left">Hi 👋! My name is Mariano Botto!</h2>
 
 ###
 
